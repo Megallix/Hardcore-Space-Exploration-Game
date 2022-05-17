@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TimeGame : MonoBehaviour
+public class TimeGame2 : MonoBehaviour
 {
     float roundStartDelayTime = 3;
 

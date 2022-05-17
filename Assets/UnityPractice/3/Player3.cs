@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class Player3 : MonoBehaviour
 {
     public float speed = 10;
     // Update is called once per frame

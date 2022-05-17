@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Chaser : MonoBehaviour
+public class Chaser3 : MonoBehaviour
 {
     public Transform targetTransform;
     public float speed = 7;

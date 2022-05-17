@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DstBetweenPoints : MonoBehaviour
+public class DstBetweenPoints1 : MonoBehaviour
 {
     int frameCount;
 
